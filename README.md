@@ -1,2 +1,11 @@
-# vagrant-centos6-nagios-plugins
-nstalls nagios-plugins-all on CentOS 6 and tars them to /vagrant
+# vagrant centos6 plugin tar
+
+## installs nagios-plugins-all on CentOS 6 and tars them to /vagrant
+
+# run
+
+    vagrant up && vagrant destroy -f
+
+
+
+
